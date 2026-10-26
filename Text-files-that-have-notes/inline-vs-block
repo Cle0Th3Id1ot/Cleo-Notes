@@ -1,0 +1,5 @@
+
+    Block elements (e.g., <div>, <section>, <p>) span full width and start on a new line.
+    Inline elements (e.g., <span>, <a>, <strong>) only take necessary width.
+
+This distinction affects layout and is crucial when applying CSS display rules.

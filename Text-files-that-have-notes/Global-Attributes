@@ -1,0 +1,7 @@
+Global attributes you will use everywhere
+
+    class - groups elements for CSS styling.
+    id - unique identifier for one element (useful for anchors and scripting).
+    title - tooltip text.
+    lang - language of a document or element (<html lang="en">).
+    data-* - custom data attributes for scripts or styling hooks.

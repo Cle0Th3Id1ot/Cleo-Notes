@@ -1,0 +1,3 @@
+Prefer semantic tags (<header>, <nav>, <main>, <section>, <footer>) over generic <div>s.
+
+They help screen readers and search engines understand the page.
